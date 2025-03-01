@@ -23,7 +23,6 @@ public class EnhancedBubbleSort {
         }
         System.out.println("✅ Lista ordenada con Enhanced Bubble Sort.");
     }
-
     public static void opcionEnhancedBubbleSort(List<Integer> lista) {
         if (lista.isEmpty()) {
             System.out.println("❌ No hay datos cargados. Cargue datos primero.");

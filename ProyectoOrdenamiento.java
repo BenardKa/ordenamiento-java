@@ -94,32 +94,32 @@ public class ProyectoOrdenamiento {
                 case 2:
                     System.out.println("🔄 Opción seleccionada: Bubble Sort");
                     BubbleSort.opcionBubbleSort(listaDatos);
-                    actualizarPuntos("4. Algoritmo de Ordenamiento - Bubble Sort");
+                    actualizarPuntos("4. Algoritmo de Ordenamiento - BUBBLE SORT");
                     break;
                 case 3:
                     System.out.println("🔄 Opción seleccionada: Enhanced Bubble Sort");
                     EnhancedBubbleSort.opcionEnhancedBubbleSort(listaDatos);
-                    actualizarPuntos("5. Algoritmo de Ordenamiento - Enhanced Bubble Sort");
+                    actualizarPuntos("5. Algoritmo de Ordenamiento - ENHANCED BUBBLE SORT");
                     break;
                 case 4:
                     System.out.println("⚡ Opción seleccionada: Quick Sort");
                     QuickSort.opcionQuickSort(listaDatos);
-                    actualizarPuntos("6. Algoritmo de Ordenamiento - Quick Sort");
+                    actualizarPuntos("6. Algoritmo de Ordenamiento - QUICK SORT");
                     break;
                 case 5:
                     System.out.println("🎯 Opción seleccionada: Selection Sort");
                     SelectionSort.opcionSelectionSort(listaDatos);
-                    actualizarPuntos("7. Algoritmo de Ordenamiento - Selection Sort");
+                    actualizarPuntos("7. Algoritmo de Ordenamiento - SELECTION SORT");
                     break;
                 case 6:
                     System.out.println("🔀 Opción seleccionada: Merge Sort");
                     MergeSort.opcionMergeSort(listaDatos);
-                    actualizarPuntos("8. Algoritmo de Ordenamiento - Merge Sort");
+                    actualizarPuntos("8. Algoritmo de Ordenamiento - MERGE SORT");
                     break;
                 case 7:
                     System.out.println("🔎 Opción seleccionada: Binary Search");
                     BinarySearch.opcionBinarySearch(listaDatos);
-                    actualizarPuntos("9. Algoritmo de Búsqueda - Binary Search");
+                    actualizarPuntos("9. Algoritmo de Búsqueda - BINARY SEARCH");
                     break;
                 case 8:
                     System.out.println("👋 Saliendo del programa...\n");
